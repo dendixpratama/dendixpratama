@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dendixpratama
 - 👀 I’m interested in Web development and UI/UX Design.
-- 📫 How to reach me ...
+- 📫 How to reach me dendixpratama@gmail.com
 
 <!---
 dendixpratama/dendixpratama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
